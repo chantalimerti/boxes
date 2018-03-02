@@ -1,0 +1,42 @@
+#solid {
+	margin: auto;
+	border: solid;
+	width: 40%;
+	height: 100px;
+	background-color: #b3d6c1;
+}
+
+#liquid, #gas {
+	display: inline-block;
+	border: solid;
+	width: 40%;
+	height: 100px;
+	background-color: #b3d6c1;
+}
+#plasma {
+	width: 40%;
+	height: 100px;
+	background-color: #b3d6c1;
+	border: solid;
+	position: absolute;
+	
+}
+#small {
+	width: 20px;
+	height: 20px;
+	background-color: #7cc0d3;
+	position: absolute;
+	border: solid;
+	right: 0px;
+	bottom: 0px;
+}
+
+#purple {
+	width: 20px;
+	height:20px;
+	background-color: purple;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+
